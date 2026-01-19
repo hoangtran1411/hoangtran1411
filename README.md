@@ -11,7 +11,7 @@ Hi there 👋 I'm Hoang Tran
 
 ## 🧰 Tech Stack!
 
-[![My Skills](https://skillicons.dev/icons?i=go,cs,git,dotnet,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,cs,git,dotnet)](https://skillicons.dev)
 
 
 ---
