@@ -11,7 +11,7 @@ Hi there 👋 I'm Fedor Shtab
 
 ## 🧰 Tech Stack!
 
-[![My Skills](https://skillicons.dev/icons?i=go,csharp,git,dotnet,sqlserver)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,cs,git,dotnet,sqlserver)](https://skillicons.dev)
 
 
 ---
