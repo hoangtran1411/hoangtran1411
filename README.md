@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋 I'm Fedor Shtab
 
-<!--
-**hoangtran1411/hoangtran1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github-snake-dark](https://github.com/user-attachments/assets/b72f2648-c941-44bc-97f5-bc9f251e1ef4)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>
 
-Here are some ideas to get you started:
+**Passionate about building reliable systems and automating everything.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Based in **Dong Nai, Viet Nam**  
+💻 Focused on **Software Development**
+
+---
+
+## 🧰 Tech Stack!
+
+[![My Skills](https://skillicons.dev/icons?i=go,csharp,git,dotnet,sqlserver)](https://skillicons.dev)
+
+
+---
